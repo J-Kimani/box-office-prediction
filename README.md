@@ -7,7 +7,7 @@ The model uses **XGBoost** trained on the **TMDB 5000 Movies Dataset** and integ
 ---
 
 ## 🚀 Live Demo
-👉 [Try the App on Streamlit Cloud]([https://streamlit.io/cloud](https://box-office-prediction-sehkqwlotlgwtngpykdbak.streamlit.app/)
+👉 [Try the App on Streamlit Cloud]([https://streamlit.io/box-office-prediction](https://box-office-prediction-sehkqwlotlgwtngpykdbak.streamlit.app/)
 
 ---
 
